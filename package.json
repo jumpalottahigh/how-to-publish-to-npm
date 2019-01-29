@@ -1,0 +1,19 @@
+{
+  "name": "how-to-publish-to-npm",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jumpalottahigh/how-to-publish-to-npm.git"
+  },
+  "author": "Georgi Yanev <georgiyanev.gy@gmail.com> (https://blog.georgi-yanev.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jumpalottahigh/how-to-publish-to-npm/issues"
+  },
+  "homepage": "https://github.com/jumpalottahigh/how-to-publish-to-npm#readme"
+}
